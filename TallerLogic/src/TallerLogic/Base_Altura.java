@@ -8,9 +8,6 @@ package TallerLogic;
  *
  * @author 503
  */
-public class TallerLogic {
-    public static void main(String[]args){
+public class Base_Altura {
     
-        System.out.println("hola mundo");
-    }
 }

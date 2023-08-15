@@ -8,9 +8,6 @@ package TallerLogic;
  *
  * @author 503
  */
-public class TallerLogic {
-    public static void main(String[]args){
-    
-        System.out.println("hola mundo");
-    }
+public class Mineria {
+  
 }
